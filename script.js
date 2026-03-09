@@ -1,8 +1,8 @@
 const messages = [
     "Sotti na bole dicchis?🥲",
     "Sotti hobi na??🥺",
-    "Sahiba sotti na bole dicchen ?😓",
-    "E pechi , please...🙏🏼",
+    "Tani sotti na bole dicchen ?😓",
+    "E Tani , please...🙏🏼",
     "R ekbar vebe ne please 😓! ",
     "Amar Proti ki kono feelings nei.😩 ",
     "Sotti ki kono fealings nei 🥺?",
