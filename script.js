@@ -3,7 +3,7 @@ const messages = [
     "Sotti hobi na??🥺",
     " kiree   sotti na bole dicchis ?😓",
     "please akber bhebe dekh  , please...🙏🏼",
-    "R ekbar vebe ne please 😓! ",
+    "R  ekbar vebe ne please 😓! ",
     "Amar Proti ki kono feelings nei.😩 ",
     "Sotti ki kono fealings nei 🥺?",
     "Amio r 5 ta bondhur motoi ??😭 ",
