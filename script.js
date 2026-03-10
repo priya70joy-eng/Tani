@@ -6,7 +6,7 @@ const messages = [
     "R  ekbar vebe ne please 😓! ",
     "Amar Proti ki kono feelings nei.😩 ",
     "Sotti ki kono fealings nei 🥺?",
-    "Amio r 5 ta bondhur motoi ??😭 ",
+    "Amio er 5 ta bondhur motoi ??😭 ",
     "Sorry re , Ami r jiggas korbo na😩.",
     "Tobe aj toke ha boltei hobe 😉"
 ];
